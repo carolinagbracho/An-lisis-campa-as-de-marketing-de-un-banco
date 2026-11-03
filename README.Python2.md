@@ -51,4 +51,3 @@ Las contribuciones son bienvenidas. Si deseas mejorar el proyecto, por favor abr
 **AUTORES Y AGRADECIMIENTOS**   
 Carolina Gómez Bracho
 
-https\://github.com/carolinagbracho/katas\_python
